@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Vitthal. Pleased to meet you!
 
-[![LinkedIn](https://www.linkedin.com/in/vitthal-bulbule-796558288)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vitthal-bulbule-796558288))
+
+![Banner](banner.gif)
+
 
 ---
 
