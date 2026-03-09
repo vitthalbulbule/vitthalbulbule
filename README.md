@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 Passionate about technology and business 
 
-👋 Hi! I'm Vitthal, a data analyst with experience in turning complex data into useful information to help businesses make better decisions and improve operational efficiency.
+👋 Hi! I'm Vitthal, a data analyst with learning experience in turning complex data into useful information to help businesses make better decisions and improve operational efficiency.
 
 I’m a curious person, always looking to understand the "why" behind things. My thinking is analytical and detail-oriented, which allows me to approach problems from different perspectives. I’m enthusiastic and always eager to learn, which helps me constantly improve in everything I do.
 
